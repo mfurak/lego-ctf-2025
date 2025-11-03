@@ -11,7 +11,9 @@ connection_info:
 nc vexillology.ctf.thelegogroup.com 1337
 nc flagfans.ctf.thelegogroup.com 1337
 ```
+
 ### Theme
+
 Crypto
 
 ### Hint
